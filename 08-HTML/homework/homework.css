@@ -1,0 +1,26 @@
+body{
+    background: url('https://th.bing.com/th/id/R.200da5caebd4c99115207ee7789d2c10?rik=9yOEsoZS2UgErA&riu=http%3a%2f%2fargentear.com%2fwp-content%2fuploads%2f2018%2f11%2fjardin-japones-buenos-aires.jpg&ehk=B%2fUvIcxWw8bT93UCU4dWCrkaU8muSekPDwR0Taawc0A%3d&risl=&pid=ImgRaw&r=0');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    color: cadetblue;
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    background-color: violet;
+    padding: 50px;
+    border: 3px solid aqua;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
